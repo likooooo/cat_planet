@@ -4,7 +4,7 @@
 # 下载网页源代码
 git clone https://github.com/likooooo/cat_planet.git
 # 下载资源文件
-git submodule update --init --recursive
+cd cat_planet && git submodule update --init --recursive
 ```
 
 - 初始化运行环境
